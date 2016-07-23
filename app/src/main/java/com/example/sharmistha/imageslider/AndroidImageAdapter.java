@@ -23,8 +23,9 @@ public class AndroidImageAdapter extends PagerAdapter {
     }
 
     private int[] sliderImagesId = new int[]{
-            R.drawable.coyote, R.drawable.goat, R.drawable.cat,
-            R.drawable.tiger, R.drawable.piglet, R.drawable.cat,
+            R.drawable.bear, R.drawable.dog, R.drawable.elephant,
+            R.drawable.giraffe, R.drawable.horse, R.drawable.kangaroo,
+            R.drawable.lion, R.drawable.peacock, R.drawable.rhino,R.drawable.tiger
     };
 
     @Override
